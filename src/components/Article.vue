@@ -45,11 +45,13 @@ img {
     float: left;
     width: 200px;
     height: 120px;
+    padding: 10px;
 }
 
 article{
     float: left;
     display: flex;
+    margin-top: auto;
 }
 
 img {
@@ -64,7 +66,7 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 30px;
     margin-right: 200px ;
 }
 </style>

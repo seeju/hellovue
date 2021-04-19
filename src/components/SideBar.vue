@@ -17,11 +17,11 @@ export default {
 
 <style scoped>
 ul {
-    height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 160px; /* Set the width of the sidebar */
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    height: 100%; 
+    width: 160px; 
+    position: absolute; 
     right: 0;
-    overflow-x: hidden; /* Disable horizontal scroll */
+    overflow-x: hidden; 
     padding-top: 20px;
     margin-top: auto;
     margin-bottom: auto;
